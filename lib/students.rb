@@ -2,7 +2,7 @@
 
 def highest_student_gpa
 end
-"SELECT id FROM "
+"SELECT id,gpa FROM "
 
 
 def lowest_student_gpa
